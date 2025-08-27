@@ -1,6 +1,6 @@
 Privacy Policy for Kodama
 
-Effective Date: [Date]
+Effective Date: August 26, 2025
 
 Kodama is an offline-first voice recording app designed to help users safely store audio evidence, especially in sensitive situations such as domestic violence, harassment, or workplace abuse. Your privacy and security are our top priorities.
 
