@@ -18,7 +18,8 @@ Kodama is an **offline-first voice recording app** designed to help users safely
 - **Optional background recording**  
   Stay prepared by capturing evidence even when the app is not in the foreground.
 
+For more info, visit the App Store listing (coming soon).
 
 ## Contact
 For inquiries, please email:  
-kodama.supp@gmail.com
+**kodama.supp@gmail.com**
