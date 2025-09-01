@@ -6,6 +6,7 @@ This repository contains the official legal documents for the **Kodama** iOS app
 
 - [Privacy Policy](./privacy-policy.md)
 - [Terms of Use](./terms-of-use.md)
+- [User Privacy Choices](./user-privacy-choices.md)
 
 ## About Kodama
 Kodama is an **offline-first voice recording app** designed to help users safely store audio evidence in sensitive situations such as domestic violence, harassment, or workplace abuse.
